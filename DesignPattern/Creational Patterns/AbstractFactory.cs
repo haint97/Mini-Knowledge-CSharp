@@ -4,6 +4,7 @@ using System.Text;
 
 namespace DesignPattern.Creational_Patterns
 {
+    //Creates an instance of several families of classes
     // creating families of related or dependent objects without specifying their concrete classes.
     class AbstractFactory
     {

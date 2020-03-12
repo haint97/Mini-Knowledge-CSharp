@@ -15,8 +15,6 @@ namespace DesignPattern.Behavioral_Patterns
 
             bidv.Price = 5;
             bidv.Price = 50;
-
-
         }
     }
 
